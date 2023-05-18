@@ -2,21 +2,21 @@
 
 #yellow{
 	background:yellow;
-	border-width:1px;
 	border:solid;
 	border-color:green;
+	border-width:1px;
 }
 
 #red{
 	background:red;
-	border-width:1px;
 	border:solid;
 	border-color:black;
+	border-width:1px;
 }
 
 #green{
 	background:green;
-	border-width:1px;
 	border:solid;
 	border-color:yellow;
+	border-width:1px;
 }
